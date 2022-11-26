@@ -13,8 +13,8 @@ export default{
         },
 
             {
-                name: 'name',
-                title: 'Name', 
+                name: 'company',
+                title: 'Company', 
                 type: 'string'
 
         },
