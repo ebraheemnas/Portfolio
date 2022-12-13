@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import * as ReactTooltipWholeModule from 'react-tooltip';
+import { Tooltip as ReactTooltip } from 'react-tooltip';
+
 
 import { AppWrap, MotionWrap } from '../../wrapper';
 import { urlFor, client } from '../../client';
@@ -69,6 +70,7 @@ const Skills = () => {
                       <h4 className="bold-text">{work.name}</h4>
                       <p className="p-text">{work.company}</p>
                     </motion.div>
+                    
                     <ReactTooltip
                       id={work.name}
                       effect="solid"
