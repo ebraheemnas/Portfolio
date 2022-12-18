@@ -25,10 +25,10 @@ const Header = () => (
     >
       <div className="app__header-badge">
         <div className="badge-cmp app__flex">
-          <span>♣️</span>
+          <span>🖥</span>
           <div style={{ marginLeft: 20 }}>
-            <p className="p-text">N A S S A R</p>
-            <h1 className="head-text">Ibrahim</h1>
+            <p className="p-text">Ibrahim</p>
+            <h1 className="head-text">NASSAR</h1>
           </div>
         </div>
 
