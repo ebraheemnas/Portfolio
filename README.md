@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h2>Welcome to my professional portfolio, a showcase of my projects and accomplishments.</h2>
-	<p>This portfolio is built using React</p>
+	<p>This portfolio was built using React</p>
 <h2>Key Features</h2>
 <ul>
 	<li>Includes a collection of projects, highlighting my skills and expertise</li>
