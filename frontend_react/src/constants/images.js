@@ -42,7 +42,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import sap from '../assets/sap.png';
 
-export default {
+const images = {
   email,
   mobile,
   api,
@@ -83,3 +83,5 @@ export default {
   economics,
   programming,
 };
+
+export default images;
