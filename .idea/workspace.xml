@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e14984c-c1dd-4d6a-b5b0-ab7e790d39ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend_react/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend_react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend_react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend_react/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend_react/src/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/src/client.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend_react/src/container/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/src/container/Footer/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
