@@ -1,20 +1,20 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<h1>My Portfolio</h1>
-</head>
-<body>
-	<h2>Welcome to my professional portfolio, a showcase of my projects and accomplishments.</h2>
-	<p>This portfolio was built using React</p>
-<h2>Key Features</h2>
-<ul>
-	<li>Includes a collection of projects, highlighting my skills and expertise</li>
-	<li>Utilizes data content storage for efficient management and organization</li>
-</ul>
+# Ibrahim Nassar — Portfolio
 
-<h2>Data Storage</h2>
-<p>This portfolio is designed with a focus on efficiency and sustainability. To achieve this, it relies on data content storage for managing and organizing project information.</p>
+React portfolio backed by live Sanity content, with configurations for free deployment on GitHub Pages, Netlify, or Vercel.
 
-<p>Thank you for visiting my portfolio. If you have any questions or would like to get in touch, please feel free to reach out.</p>
-</body>
-</html>
+## Local development
+
+```bash
+cd frontend_react
+npm ci
+npm start
+```
+
+## Production build
+
+```bash
+cd frontend_react
+npm run build
+```
+
+See [DEPLOYMENT.md](DEPLOYMENT.md) for free hosting instructions. The contact form safely opens the visitor's email application and does not expose a Sanity write token.

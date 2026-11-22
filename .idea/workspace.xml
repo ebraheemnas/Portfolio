@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e14984c-c1dd-4d6a-b5b0-ab7e790d39ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_react/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_react/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_react/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_react/src/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/src/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend_react/src/container/Footer/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend_react/src/container/Footer/Footer.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/ebrah/IdeaProjects/Portfolio" value="3MTOtU9GaO9gAVOw1zV8V95BqaL" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="119" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ebraheemnas&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ebraheemnas/Portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;0e6cb055-b81a-4d00-9e8c-270922ba082d&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.095254707986604" />
+      <entry key="MS500" value="4.665388450563766" />
+      <entry key="S2" value="10.184768778904479" />
+      <entry key="S5" value="13.5871193784893" />
+      <entry key="S10" value="15.149080556898014" />
+      <entry key="S30" value="16.347456703602056" />
+      <entry key="S60" value="16.6690452559262" />
+      <entry key="M2" value="16.833333266672796" />
+      <entry key="M5" value="16.933045444801532" />
+      <entry key="M10" value="16.966474542640555" />
+      <entry key="M15" value="16.97763897340488" />
+      <entry key="M30" value="16.9888141220839" />
+      <entry key="H1" value="16.994405719179177" />
+      <entry key="H2" value="16.997202524035337" />
+      <entry key="H4" value="16.998601178118037" />
+      <entry key="D1" value="16.99976685136601" />
+      <entry key="W1" value="16.999966692766883" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.0595960638853374" />
+      <entry key="MS500" value="4.649168749209256" />
+      <entry key="S2" value="10.166462530078128" />
+      <entry key="S5" value="13.574576229959655" />
+      <entry key="S10" value="15.141470917128093" />
+      <entry key="S30" value="16.34456146941537" />
+      <entry key="S60" value="16.667548387484427" />
+      <entry key="M2" value="16.8325721640484" />
+      <entry key="M5" value="16.932737916739516" />
+      <entry key="M10" value="16.96632026017857" />
+      <entry key="M15" value="16.977536002930663" />
+      <entry key="M30" value="16.98876257902368" />
+      <entry key="H1" value="16.99437993317952" />
+      <entry key="H2" value="16.997189627416397" />
+      <entry key="H4" value="16.998594728903576" />
+      <entry key="D1" value="16.999765776371216" />
+      <entry key="W1" value="16.999966539193117" />
+    </decayedShown>
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3MTOr9fI4x8eg1fANMXcGnlvgSB" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e14984c-c1dd-4d6a-b5b0-ab7e790d39ad" name="Changes" comment="" />
+      <created>1795371288678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1795371288678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
