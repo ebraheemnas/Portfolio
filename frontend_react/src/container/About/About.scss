@@ -20,11 +20,22 @@
     flex-direction: column;
     margin: 2rem;
   
-    img {
+    img,
+    .app__profile-icon {
       width: 100%;
       height: 170px;
       border-radius: 15px;
-      object-fit: cover;
+      object-fit: contain;
+      background-color: #fff;
+    }
+
+    .app__profile-icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--secondary-color);
+      background: var(--primary-color);
+      font-size: 4rem;
     }
   
     @media screen and (min-width: 2000px) {

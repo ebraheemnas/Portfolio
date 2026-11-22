@@ -5,66 +5,54 @@ import { AppWrap } from '../../wrapper';
 import { images } from '../../constants';
 import './Header.scss';
 
-const scaleVariants = {
-  whileInView: {
-    scale: [0, 1],
-    opacity: [0, 1],
-    transition: {
-      duration: 1,
-      ease: 'easeInOut',
-    },
-  },
-};
-
 const Header = () => (
-  <div className="app__header app__flex">
-    <motion.div
-      whileInView={{ x: [-100, 0], opacity: [0, 1] }}
-      transition={{ duration: 0.5 }}
+  <div className="app__header">
+    <motion.section
+      initial={{ opacity: 0, y: 24 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.6 }}
       className="app__header-info"
     >
-      <div className="app__header-badge">
-        <div className="badge-cmp app__flex">
-          <span>🖥</span>
-          <div style={{ marginLeft: 20 }}>
-            <p className="p-text">Ibrahim</p>
-            <h1 className="head-text">NASSAR</h1>
-          </div>
-        </div>
-
-        <div className="tag-cmp app__flex">
-          <p className="p-text">THANKS</p>
-          <p className="p-text">For taking a look</p>
-        </div>
+      <p className="app__header-eyebrow">Hello, I’m Ibrahim Nassar</p>
+      <h1>Software developer building <span>practical digital solutions.</span></h1>
+      <p className="app__header-intro">
+        I build modern web applications and APIs, combining software development,
+        data, design, and Agile teamwork.
+      </p>
+      <div className="app__header-actions">
+        <a className="app__header-button app__header-button-primary" href="#work">View my work</a>
+        <a className="app__header-button" href="#contact">Contact me</a>
       </div>
-    </motion.div>
+      <div className="app__header-focus" aria-label="Core focus areas">
+        <span>Backend APIs</span>
+        <span>Web Development</span>
+        <span>Agile Delivery</span>
+      </div>
+    </motion.section>
 
-    <motion.div
-      whileInView={{ opacity: [0, 1] }}
-      transition={{ duration: 0.5, delayChildren: 0.5 }}
-      className="app__header-img"
+    <motion.section
+      initial={{ opacity: 0, scale: 0.96 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ duration: 0.7, delay: 0.15 }}
+      className="app__header-visual"
+      aria-label="Portrait and technology specialties"
     >
-      <img src={images.profile} alt="profile_bg" />
-      <motion.img
-        whileInView={{ scale: [0, 1] }}
-        transition={{ duration: 1, ease: 'easeInOut' }}
-        src={images.circle}
-        alt="profile_circle"
-        className="overlay_circle"
-      />
-    </motion.div>
-
-    <motion.div
-      variants={scaleVariants}
-      whileInView={scaleVariants.whileInView}
-      className="app__header-circles"
-    >
-      {[images.adobe, images.programming, images.economics].map((circle, index) => (
-        <div className="circle-cmp app__flex" key={`circle-${index}`}>
-          <img src={circle} alt="profile_bg" />
-        </div>
-      ))}
-    </motion.div>
+      <div className="app__header-img">
+        <img src={images.profile} alt="Ibrahim Nassar" />
+      </div>
+      <div className="app__header-circles">
+        {[
+          { image: images.adobe, label: 'Design' },
+          { image: images.programming, label: 'Development' },
+          { image: images.economics, label: 'Business' },
+        ].map(({ image, label }) => (
+          <div className="app__header-specialty" key={label}>
+            <img src={image} alt="" />
+            <span>{label}</span>
+          </div>
+        ))}
+      </div>
+    </motion.section>
   </div>
 );
 
